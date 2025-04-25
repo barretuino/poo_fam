@@ -1,0 +1,30 @@
+0: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+1: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+2: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+3: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+4: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+5: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+6: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+7: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+8: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
+9: apenas um teste
+apenas um teste de escrita
+apenas um teste de escrita usando BufferedWriter
